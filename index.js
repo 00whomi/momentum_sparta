@@ -1,6 +1,7 @@
 $(document).ready(function () {
     renderCurrentTime();
     renderQuote();
+    renderRandomImage();
 });
 // 현재 시간
 function renderCurrentTime() {
